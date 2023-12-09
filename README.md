@@ -5,7 +5,7 @@
 I'm Sumitra Paul, an aspiring Frontend Developer and Computer Science student at Jashore University of Science and Technology. Proficient in React and Node.js, I am passionate about crafting seamless user experiences. My vision is to contribute innovative solutions to the ever-evolving web development landscape. Let's connect and create digital experiences that leave a lasting impact!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
-Skills:  REACT / JS / HTML / CSS / Node.js
+
 
 - 🌱 I’m currently learning Full Stack Development 
 - 💬 Ask me about Html, CSS, JS, React 
