@@ -20,6 +20,8 @@ I'm Sumitra Paul, an aspiring Frontend Developer and Computer Science student at
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitrapaul&show_icons=true)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitrapaul&show_icons=true&count_private=true) 
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sumitrapaul)  
 
 
