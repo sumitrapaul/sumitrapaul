@@ -18,9 +18,8 @@ I'm Sumitra Paul, an aspiring Frontend Developer and Computer Science student at
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitrapaul)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitrapaul&show_icons=true)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitrapaul&show_icons=true&count_private=true) 
+
 [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitrapaul&theme=monokai)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sumitrapaul)  
